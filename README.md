@@ -8,4 +8,3 @@ My living room central controller using following device and technologies:
 - IRKit
 - ZeroConf (a.k.a Bonjour)
 - GPIO
-- 
